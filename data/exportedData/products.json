@@ -1,0 +1,2304 @@
+[{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd44"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd45"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd46"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd47"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd48"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd49"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd4a"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd4b"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd4c"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd4d"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd4e"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd4f"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd50"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd51"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd52"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd53"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd54"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd55"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd56"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd57"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd58"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd59"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd5a"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd5b"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd5c"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd5d"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd5e"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd5f"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd60"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd61"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd62"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd63"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd64"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd65"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd66"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd67"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd68"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd69"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd6a"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd6b"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd6c"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd6d"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd6e"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd6f"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd70"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd71"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd72"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd73"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd74"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd75"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd76"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd77"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd78"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd79"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd7a"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd7b"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd7c"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd7d"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd7e"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd7f"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd80"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd81"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd82"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd83"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd84"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd85"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd86"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd87"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd88"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd89"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd8a"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd8b"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd8c"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd8d"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd8e"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd8f"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd90"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd91"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd92"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd93"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd94"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd95"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd96"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd97"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd98"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd99"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd9a"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd9b"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd9c"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd9d"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd9e"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cd9f"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda0"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda1"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda2"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda3"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda4"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda5"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda6"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda7"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda8"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cda9"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdaa"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdab"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdac"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdad"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdae"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdaf"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb0"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb1"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb2"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb3"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb4"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb5"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb6"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb7"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb8"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdb9"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdba"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdbb"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdbc"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdbd"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdbe"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdbf"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc0"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc1"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc2"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc3"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc4"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc5"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc6"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc7"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc8"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdc9"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdca"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdcb"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdcc"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdcd"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdce"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdcf"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd0"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd1"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd2"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd3"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd4"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd5"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd6"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd7"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd8"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdd9"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdda"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cddb"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cddc"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cddd"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdde"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cddf"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde0"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde1"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde2"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde3"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde4"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde5"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde6"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde7"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde8"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cde9"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdea"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdeb"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdec"
+  },
+  "title": "Triple Chocolate Cake",
+  "category": "Cakes",
+  "image": "products/triple-chocolate-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cded"
+  },
+  "title": "Homemade Strawberry Cake",
+  "category": "Cakes",
+  "image": "products/homemade-strawberry-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdee"
+  },
+  "title": "Lemon Blueberry Layer Cake",
+  "category": "Cakes",
+  "image": "products/lemon-blueberry-layer-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdef"
+  },
+  "title": "Vanilla Cake",
+  "category": "Cakes",
+  "image": "products/vanilla-cake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 120
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf0"
+  },
+  "title": "Dinner Rolls In Pan",
+  "category": "Bread",
+  "image": "products/dinner-rolls-in-pan.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf1"
+  },
+  "title": "Bagels",
+  "category": "Bread",
+  "image": "products/bagels.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf2"
+  },
+  "title": "Homemade Banana Bread",
+  "category": "Bread",
+  "image": "products/homemade-banana-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf3"
+  },
+  "title": "Homemade Artisan Bread",
+  "category": "Bread",
+  "image": "products/homemade-artisan-bread.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "price": 50
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf4"
+  },
+  "title": "Brown Butter Pecan Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/brown-butter-pecan-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf5"
+  },
+  "title": "Salted Caramel Apple Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/salted-caramel-apple-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf6"
+  },
+  "title": "Pumpkin Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/pumpkin-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf7"
+  },
+  "title": "Cranberry Crumble Pie Bars",
+  "category": "Brownies & Bars",
+  "image": "products/cranberry-crumble-pie-bars.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 100
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf8"
+  },
+  "title": "Chewy Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/chewy-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdf9"
+  },
+  "title": "Big Fat Peanut Butter Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/thick-peanut-butter-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdfa"
+  },
+  "title": "Chewy Oatmeal Chocolate Chip Cookies",
+  "category": "Cookies",
+  "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdfb"
+  },
+  "title": "Soft & Chewy Oatmeal Raisin Cookies",
+  "category": "Cookies",
+  "image": "products/oatmeal-raisin-cookies.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 70
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdfc"
+  },
+  "title": "White Chocolate Buttercream Frosting",
+  "category": "Frosting",
+  "image": "products/white-chocolate-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdfd"
+  },
+  "title": "Strawberry Buttercream Frosting Recipe",
+  "category": "Frosting",
+  "image": "products/real-strawberry-buttercream-frosting.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdfe"
+  },
+  "title": "Homemade Whipped Cream",
+  "category": "Frosting",
+  "image": "products/homemade-whipped-cream.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3cdff"
+  },
+  "title": "Salted Caramel Frosting on Cupcake",
+  "category": "Frosting",
+  "image": "products/salted-caramel-frosting-on-cupcake.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 55
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3ce00"
+  },
+  "title": "Homemade Banana Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-banana-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3ce01"
+  },
+  "title": "Creamy Lemon Pie",
+  "category": "Pies",
+  "image": "products/creamy-lemon-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3ce02"
+  },
+  "title": "Key Lime Pie",
+  "category": "Pies",
+  "image": "products/key-lime-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 150
+},
+{
+  "_id": {
+    "$oid": "64726b31f05a7410a4b3ce03"
+  },
+  "title": "Homemade Coconut Cream Pie",
+  "category": "Pies",
+  "image": "products/homemade-coconut-cream-pie.webp",
+  "bakery": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "price": 150
+}]
