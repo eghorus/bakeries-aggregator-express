@@ -1,4 +1,4 @@
-import mongoose, { Model } from "mongoose";
+import mongoose, { Model, Types } from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
 
@@ -9,6 +9,7 @@ export type IUser = {
     src: string;
   };
   password: string;
+  orders: Types.ObjectId[];
 };
 
 type IUserMethods = {
@@ -56,6 +57,12 @@ const userSchema = new mongoose.Schema<IUser, UserModel, IUserMethods>({
     maxlength: [100, "User password field must be at most 100 characters."],
     select: false,
   },
+  orders: [
+    {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Order",
+    },
+  ],
 });
 
 userSchema.methods.isPasswordValid = async function (inputPassword) {
