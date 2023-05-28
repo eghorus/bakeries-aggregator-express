@@ -1,11 +1,15 @@
 import { NextFunction, Request, Response } from "express";
-import { User } from "../models";
 import OpError from "../lib/operational-error";
+import { User } from "../models";
 import { signJwtToken } from "../lib/jwt";
 
 const createUser = async (req: Request, res: Response, next: NextFunction) => {
   try {
     const { name, email, password } = req.body;
+    if (!name || !email || !password) {
+      return next(new OpError(400, "Name, email, and password fields are required for user sign up."));
+    }
+
     const user = await User.create({ name, email, password });
 
     res.status(201).json({
@@ -23,7 +27,6 @@ const authenticateUser = async (req: Request, res: Response, next: NextFunction)
     if (!email || !password) {
       return next(new OpError(400, "Email and password fields are required for user authentication."));
     }
-
     const user = await User.findOne({ email }).select("+password");
     if (!user || !(await user.isPasswordValid(password))) {
       return next(new OpError(401, "Invalid email or password."));

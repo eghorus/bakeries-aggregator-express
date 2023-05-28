@@ -30,15 +30,15 @@ const orderSchema = new mongoose.Schema<IOrder>({
         price: Number,
       },
     ],
-    required: [true, "Ordered products list is required."],
+    required: [true, "Product list field is required."],
     validate: [
       {
         validator: (val: Omit<IProduct, "bakery">[]) => val.length >= 1,
-        message: "Ordered products list must include at least 1 product.",
+        message: "Product list field must include at least 1 product.",
       },
       {
         validator: (val: Omit<IProduct, "bakery">[]) => val.length <= 10,
-        message: "Ordered products list must include at most 10 products.",
+        message: "Product list field must include at most 10 products.",
       },
     ],
   },
@@ -59,10 +59,12 @@ const orderSchema = new mongoose.Schema<IOrder>({
   user: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "User",
+    required: [true, "User field is required."],
   },
   bakery: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "Bakery",
+    required: [true, "Bakery field is required."],
   },
 });
 
