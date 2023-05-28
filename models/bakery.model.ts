@@ -2,7 +2,10 @@ import mongoose, { Types } from "mongoose";
 
 type IBakery = {
   title: string;
-  image: string;
+  images: {
+    logo: string;
+    cover: string;
+  };
   ratingAvg: number;
   ratingQty: number;
   products: Types.ObjectId[];
@@ -10,7 +13,10 @@ type IBakery = {
 
 const bakerySchema = new mongoose.Schema<IBakery>({
   title: String,
-  image: String,
+  images: {
+    logo: String,
+    cover: String,
+  },
   ratingAvg: {
     type: Number,
     default: 0,
