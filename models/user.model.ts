@@ -2,7 +2,7 @@ import mongoose, { Model, Types } from "mongoose";
 import validator from "validator";
 import bcrypt from "bcryptjs";
 
-export type IUser = {
+type IUser = {
   name: string;
   email: string;
   image: {

@@ -1,5 +1,6 @@
-import mongoose, { Types } from "mongoose";
+import mongoose, { Model, Types } from "mongoose";
 import { IProduct } from "./product.model";
+import { Bakery } from ".";
 
 type IOrder = {
   date: Date;
@@ -10,7 +11,9 @@ type IOrder = {
   bakery: Types.ObjectId;
 };
 
-const orderSchema = new mongoose.Schema<IOrder>({
+type OrderModel = Model<IOrder> & { calcAverageBakeryRatings(): void };
+
+const orderSchema = new mongoose.Schema<IOrder, OrderModel>({
   date: {
     type: Date,
     default: Date.now,

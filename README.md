@@ -50,6 +50,7 @@ You can use:
 # In a development environment.
 npm run dev
 # In a production environment.
+npm run build
 npm start
 ```
 

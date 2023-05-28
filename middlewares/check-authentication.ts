@@ -4,7 +4,7 @@ import OpError from "../lib/operational-error";
 import { verifyJwtToken } from "../lib/jwt";
 import { User } from "../models";
 
-const checkAuthentication = async (req: Request, res: Response, next: NextFunction) => {
+export default async function checkAuthentication(req: Request, res: Response, next: NextFunction) {
   try {
     const accessToken =
       req.headers.authorization && req.headers.authorization.startsWith("Bearer")
@@ -27,6 +27,4 @@ const checkAuthentication = async (req: Request, res: Response, next: NextFuncti
   } catch (error) {
     next(error);
   }
-};
-
-export { checkAuthentication };
+}

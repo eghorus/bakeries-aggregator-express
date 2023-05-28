@@ -1,5 +1,5 @@
 import express from "express";
-import { checkAuthentication } from "../middlewares/check-authentication";
+import checkAuthentication from "../middlewares/check-authentication";
 import { cancelOrder, completeOrder, createOrder } from "../controllers/order.controllers";
 
 const router = express.Router();
