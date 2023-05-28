@@ -44,9 +44,13 @@ const authenticateUser = async (req: Request, res: Response, next: NextFunction)
   }
 };
 
-const getUser = (req: Request, res: Response, next: NextFunction) => {
+const getUser = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const user = res.locals.authenticatedUser;
+    const userId = res.locals.authenticatedUser.id;
+    const user = await User.findOne({ _id: userId }).populate("orders");
+    if (!user) {
+      return next(new OpError(404, "No user found with this id."));
+    }
 
     res.status(200).json({
       status: "Success",

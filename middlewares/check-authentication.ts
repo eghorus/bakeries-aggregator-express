@@ -20,6 +20,7 @@ const checkAuthentication = async (req: Request, res: Response, next: NextFuncti
     if (!user) {
       return next(new OpError(404, `No user is associated with this access token.`));
     }
+    user.password = "";
 
     res.locals.authenticatedUser = user;
     next();
