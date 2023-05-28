@@ -58,18 +58,18 @@ npm start
 
 ### Public Routes (no authentication header is required)
 
-| #   | HTTP Method | URL                          |
-| --- | ----------- | ---------------------------- |
-| 1   | `POST`      | `/api/v1/users/signup`       |
-| 2   | `POST`      | `/api/v1/users/signin`       |
-| 3   | `GET`       | `/api/v1/bakeries`           |
-| 4   | `GET`       | `/api/v1/bakeries/:bakeryId` |
+| #   | HTTP Method | URL                          | Controller       |
+| --- | ----------- | ---------------------------- | ---------------- |
+| 1   | `POST`      | `/api/v1/users/signup`       | createUser       |
+| 2   | `POST`      | `/api/v1/users/signin`       | authenticateUser |
+| 3   | `GET`       | `/api/v1/bakeries`           | getAllBakeries   |
+| 4   | `GET`       | `/api/v1/bakeries/:bakeryId` | getBakery        |
 
 ### Protected Routes (authentication header is required)
 
-| #   | HTTP Method | URL                       |
-| --- | ----------- | ------------------------- |
-| 1   | `GET`       | `/api/v1/users/account`   |
-| 2   | `POST`      | `/api/v1/orders`          |
-| 3   | `PATCH`     | `/api/v1/orders/:orderId` |
-| 4   | `DELETE`    | `/api/v1/orders/:orderId` |
+| #   | HTTP Method | URL                       | Controller    |
+| --- | ----------- | ------------------------- | ------------- |
+| 1   | `GET`       | `/api/v1/users/account`   | getUser       |
+| 2   | `POST`      | `/api/v1/orders`          | createOrder   |
+| 3   | `PATCH`     | `/api/v1/orders/:orderId` | completeOrder |
+| 4   | `DELETE`    | `/api/v1/orders/:orderId` | cancelOrder   |

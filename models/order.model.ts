@@ -1,19 +1,21 @@
-import mongoose, { Model, Types } from "mongoose";
+import mongoose, { Model, PostMiddlewareFunction, Types } from "mongoose";
 import { IProduct } from "./product.model";
 import { Bakery } from ".";
 
 type IOrder = {
   date: Date;
-  products: Omit<IProduct, "bakery">[];
+  products: (IProduct & { _id: Types.ObjectId })[];
   isCompleted: boolean;
   rating: number;
   user: Types.ObjectId;
   bakery: Types.ObjectId;
 };
 
-type OrderModel = Model<IOrder> & { calcAverageBakeryRatings(): void };
+interface IOrderModel extends Model<IOrder> {
+  calcBakeryAvgRatings: () => void;
+}
 
-const orderSchema = new mongoose.Schema<IOrder, OrderModel>({
+const orderSchema = new mongoose.Schema<IOrder, IOrderModel>({
   date: {
     type: Date,
     default: Date.now,
@@ -21,16 +23,19 @@ const orderSchema = new mongoose.Schema<IOrder, OrderModel>({
   products: {
     type: [
       {
+        _id: mongoose.Schema.Types.ObjectId,
         title: String,
         image: String,
         category: {
           type: String,
           enum: {
             values: ["Cakes", "Bread", "Brownies & Bars", "Cookies", "Frosting", "Pies"],
-            message: "Category field must be one of 'Cakes', 'Bread', 'Brownies & Bars', 'Cookies', 'Frosting', 'Pies'",
+            message:
+              "Category field must be one of 'Cakes', 'Bread', 'Brownies & Bars', 'Cookies', 'Frosting', 'Pies'.",
           },
         },
         price: Number,
+        bakery: mongoose.Schema.Types.ObjectId,
       },
     ],
     required: [true, "Product list field is required."],
@@ -51,12 +56,10 @@ const orderSchema = new mongoose.Schema<IOrder, OrderModel>({
   },
   rating: {
     type: Number,
-    default: 0,
-    validate: {
-      validator: function (this: IOrder, val: number) {
-        return val > 0 && this.isCompleted;
-      },
-      message: "Rating field can only be set if the order is completed.",
+    min: [1, "Rating field must be between 1 to 5."],
+    max: [5, "Rating field must be between 1 to 5."],
+    required: function (this: IOrder) {
+      return this.isCompleted;
     },
   },
   user: {
@@ -70,6 +73,36 @@ const orderSchema = new mongoose.Schema<IOrder, OrderModel>({
     required: [true, "Bakery field is required."],
   },
 });
+
+orderSchema.post("save", async function (doc, next) {
+  if (doc.isModified("rating")) {
+    return next;
+  }
+  await doc.constructor.calcBakeryAvgRatings(doc.bakery._id);
+  next;
+} as PostMiddlewareFunction);
+
+orderSchema.statics.calcBakeryAvgRatings = async function (bakeryId: string) {
+  const ratingsStats = await this.aggregate([
+    {
+      $match: { bakery: bakeryId },
+    },
+    {
+      $group: {
+        _id: "$bakery",
+        ratingsQuantity: { $sum: 1 },
+        ratingsAvg: { $avg: "$rating" },
+      },
+    },
+  ]);
+
+  const bakery = await Bakery.findOne({ _id: bakeryId });
+  if (bakery) {
+    bakery.ratingsAvg = ratingsStats[0] ? Number(ratingsStats[0].ratingsAvg) : 0;
+    bakery.ratingsQuantity = ratingsStats[0] ? Number(ratingsStats[0].ratingsQuantity) : 0;
+    await bakery.save();
+  }
+};
 
 const Order = mongoose.model("Order", orderSchema);
 
