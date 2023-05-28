@@ -12,7 +12,7 @@ type IOrder = {
 };
 
 interface IOrderModel extends Model<IOrder> {
-  calcBakeryAvgRatings: () => void;
+  calcBakeryAvgRating: () => void;
 }
 
 const orderSchema = new mongoose.Schema<IOrder, IOrderModel>({
@@ -78,28 +78,28 @@ orderSchema.post("save", async function (doc, next) {
   if (doc.isModified("rating")) {
     return next;
   }
-  await doc.constructor.calcBakeryAvgRatings(doc.bakery._id);
+  await doc.constructor.calcBakeryAvgRating(doc.bakery._id);
   next;
 } as PostMiddlewareFunction);
 
-orderSchema.statics.calcBakeryAvgRatings = async function (bakeryId: string) {
-  const ratingsStats = await this.aggregate([
+orderSchema.statics.calcBakeryAvgRating = async function (bakeryId: string) {
+  const ratingStats = await this.aggregate([
     {
       $match: { bakery: bakeryId },
     },
     {
       $group: {
         _id: "$bakery",
-        ratingsQuantity: { $sum: 1 },
-        ratingsAvg: { $avg: "$rating" },
+        ratingQty: { $sum: 1 },
+        ratingAvg: { $avg: "$rating" },
       },
     },
   ]);
 
   const bakery = await Bakery.findOne({ _id: bakeryId });
   if (bakery) {
-    bakery.ratingsAvg = ratingsStats[0] ? Number(ratingsStats[0].ratingsAvg) : 0;
-    bakery.ratingsQuantity = ratingsStats[0] ? Number(ratingsStats[0].ratingsQuantity) : 0;
+    bakery.ratingAvg = ratingStats[0] ? Number(ratingStats[0].ratingAvg) : 0;
+    bakery.ratingQty = ratingStats[0] ? Number(ratingStats[0].ratingQty) : 0;
     await bakery.save();
   }
 };

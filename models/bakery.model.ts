@@ -3,19 +3,19 @@ import mongoose, { Types } from "mongoose";
 type IBakery = {
   title: string;
   image: string;
-  ratingsAvg: number;
-  ratingsQuantity: number;
+  ratingAvg: number;
+  ratingQty: number;
   products: Types.ObjectId[];
 };
 
 const bakerySchema = new mongoose.Schema<IBakery>({
   title: String,
   image: String,
-  ratingsAvg: {
+  ratingAvg: {
     type: Number,
     default: 0,
   },
-  ratingsQuantity: {
+  ratingQty: {
     type: Number,
     default: 0,
   },

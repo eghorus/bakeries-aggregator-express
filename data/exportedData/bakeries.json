@@ -3,8 +3,8 @@
     "$oid": "647253321740bc6d3df077b9"
   },
   "title": "Rosetta Bakery",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/rosetta-bakery.webp",
   "products": [
     {
@@ -55,15 +55,18 @@
     {
       "$oid": "64726b31f05a7410a4b3cd53"
     }
-  ]
+  ],
+  "updatedAt": {
+    "$date": "2023-05-28T14:24:51.359Z"
+  }
 },
 {
   "_id": {
     "$oid": "647253321740bc6d3df077ba"
   },
   "title": "Shugaa",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/shugaa.webp",
   "products": [
     {
@@ -121,8 +124,8 @@
     "$oid": "647253321740bc6d3df077bb"
   },
   "title": "Ladurée",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/laduree.webp",
   "products": [
     {
@@ -180,8 +183,8 @@
     "$oid": "647253321740bc6d3df077bc"
   },
   "title": "Camelia Bakery",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/camelia-bakery.webp",
   "products": [
     {
@@ -239,8 +242,8 @@
     "$oid": "647253321740bc6d3df077bd"
   },
   "title": "Dust BakeHouse",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/dust-bakehouse.webp",
   "products": [
     {
@@ -298,8 +301,8 @@
     "$oid": "647253321740bc6d3df077be"
   },
   "title": "RE x SUGAR Bakery Shop",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/re-sugar-bakery-shop.webp",
   "products": [
     {
@@ -357,8 +360,8 @@
     "$oid": "647253321740bc6d3df077bf"
   },
   "title": "Sweet Laurel Bakery",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/sweet-laurel-bakery.webp",
   "products": [
     {
@@ -416,8 +419,8 @@
     "$oid": "647253321740bc6d3df077c0"
   },
   "title": "Rose des Neiges",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/rose-des-neiges.webp",
   "products": [
     {
@@ -475,8 +478,8 @@
     "$oid": "647253321740bc6d3df077c1"
   },
   "title": "Peggy Porschen Cakes",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/peggy-porschen-cakes.webp",
   "products": [
     {
@@ -534,8 +537,8 @@
     "$oid": "647253321740bc6d3df077c2"
   },
   "title": "Stohrer",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/stohrer.webp",
   "products": [
     {
@@ -593,8 +596,8 @@
     "$oid": "647253321740bc6d3df077c3"
   },
   "title": "Aubaine Selfridges",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/aubaine-selfridges.webp",
   "products": [
     {
@@ -652,8 +655,8 @@
     "$oid": "647253321740bc6d3df077c4"
   },
   "title": "La Brea Bakery",
-  "ratingsAvg": 0,
-  "ratingsQuantity": 0,
+  "ratingAvg": 0,
+  "ratingQty": 0,
   "image": "bakeries/la-brea-bakery.webp",
   "products": [
     {
