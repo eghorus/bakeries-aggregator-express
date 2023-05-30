@@ -13,7 +13,10 @@ const globalErrorHandler: ErrorRequestHandler = function (err, req: Request, res
     err._statusCode = 400;
     const fieldName = Object.keys(err.keyValue).toString();
     const fieldValue = Object.values(err.keyValue).toString();
-    err._message = `'${fieldValue}' is a duplicate ${fieldName} field.`;
+    err._message =
+      fieldName === "email"
+        ? "This email address is already in use. If it is your email, use it to sign in, or please use a different one."
+        : `'${fieldValue}' is a duplicate ${fieldName} field.`;
     err._isOperational = true;
   }
 
