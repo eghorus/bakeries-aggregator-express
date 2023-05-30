@@ -4,7 +4,7 @@ import { Bakery } from ".";
 
 type IOrder = {
   date: Date;
-  products: (IProduct & { _id: Types.ObjectId })[];
+  products: (IProduct & { _id: Types.ObjectId; quantity: number })[];
   isCompleted: boolean;
   rating: number;
   user: Types.ObjectId;
@@ -23,7 +23,14 @@ const orderSchema = new mongoose.Schema<IOrder, IOrderModel>({
   products: {
     type: [
       {
+        // Need a fix to make all product fields are required
         _id: mongoose.Schema.Types.ObjectId,
+        quantity: {
+          type: Number,
+          default: 1,
+          min: 1,
+          max: 10,
+        },
         title: String,
         image: String,
         category: {
