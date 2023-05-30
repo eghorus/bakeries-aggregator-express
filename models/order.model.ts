@@ -46,16 +46,6 @@ const orderSchema = new mongoose.Schema<IOrder, IOrderModel>({
       },
     ],
     required: [true, "Product list field is required."],
-    validate: [
-      {
-        validator: (val: Omit<IProduct, "bakery">[]) => val.length >= 1,
-        message: "Product list field must include at least 1 product.",
-      },
-      {
-        validator: (val: Omit<IProduct, "bakery">[]) => val.length <= 10,
-        message: "Product list field must include at most 10 products.",
-      },
-    ],
   },
   isCompleted: {
     type: Boolean,
