@@ -5,7 +5,7 @@ import OpError from "../lib/operational-error";
 
 const getAllBakeries = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const bakeries = await Bakery.find();
+    const bakeries = await Bakery.find().populate("products");
 
     res.status(200).json({
       status: "Success",
