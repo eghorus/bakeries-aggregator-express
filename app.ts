@@ -17,7 +17,7 @@ const limiter = rateLimit({
   message: "Too many requests made from this IP address, please try again after one hour.",
   standardHeaders: true,
 });
-app.use(cors());
+app.use(cors({ origin: process.env.CLIENT_HOST }));
 app.options("*", cors());
 app.use("/api", limiter);
 app.use(express.json({ limit: "2mb" }));
