@@ -18,7 +18,7 @@ const models_1 = require("../models");
 const operational_error_1 = __importDefault(require("../lib/operational-error"));
 const getAllBakeries = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     try {
-        const bakeries = yield models_1.Bakery.find();
+        const bakeries = yield models_1.Bakery.find().populate("products");
         res.status(200).json({
             status: "Success",
             data: {

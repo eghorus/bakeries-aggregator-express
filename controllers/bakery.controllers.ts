@@ -5,7 +5,7 @@ import OpError from "../lib/operational-error";
 
 const getAllBakeries = async (req: Request, res: Response, next: NextFunction) => {
   try {
-    const bakeries = await Bakery.find().populate({ path: "products", model: "Product" });
+    const bakeries = await Bakery.find().populate("products");
 
     res.status(200).json({
       status: "Success",
@@ -24,7 +24,7 @@ const getBakery = async (req: Request, res: Response, next: NextFunction) => {
     if (!mongoose.isValidObjectId(bakeryId)) {
       return next(new OpError(400, "The id provided is not a valid id."));
     }
-    const bakery = await Bakery.findOne({ _id: bakeryId }).populate({ path: "products", model: "Product" });
+    const bakery = await Bakery.findOne({ _id: bakeryId }).populate("products");
     if (!bakeryId) {
       return next(new OpError(404, "No bakery found with this id."));
     }

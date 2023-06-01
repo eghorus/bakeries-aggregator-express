@@ -50,11 +50,7 @@ const authenticateUser = async (req: Request, res: Response, next: NextFunction)
 const getUser = async (req: Request, res: Response, next: NextFunction) => {
   try {
     const userId = res.locals.authenticatedUser.id;
-    const user = await User.findOne({ _id: userId }).populate({
-      path: "orders",
-      model: "Order",
-      populate: { path: "bakery", model: "Bakery" },
-    });
+    const user = await User.findOne({ _id: userId }).populate({ path: "orders", populate: { path: "bakery" } });
     if (!user) {
       return next(new OpError(404, "No user found with this id."));
     }
