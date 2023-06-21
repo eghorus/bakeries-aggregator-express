@@ -1,0 +1,750 @@
+[{
+  "_id": {
+    "$oid": "647878d5a2590f497a8342be"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd44"
+      },
+      "quantity": 10,
+      "title": "Triple Chocolate Cake",
+      "image": "products/triple-chocolate-cake.webp",
+      "category": "Cakes",
+      "price": 120,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077b9"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd45"
+      },
+      "quantity": 5,
+      "title": "Homemade Strawberry Cake",
+      "image": "products/homemade-strawberry-cake.webp",
+      "category": "Cakes",
+      "price": 120,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077b9"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd46"
+      },
+      "quantity": 2,
+      "title": "Lemon Blueberry Layer Cake",
+      "image": "products/lemon-blueberry-layer-cake.webp",
+      "category": "Cakes",
+      "price": 120,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077b9"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd48"
+      },
+      "quantity": 5,
+      "title": "Dinner Rolls In Pan",
+      "image": "products/dinner-rolls-in-pan.webp",
+      "category": "Bread",
+      "price": 50,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077b9"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:13.773Z"
+      }
+    }
+  ],
+  "isCompleted": true,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "date": {
+    "$date": "2023-06-01T10:54:13.766Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T10:54:13.774Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T10:54:33.274Z"
+  },
+  "__v": 0,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "64787902a2590f497a8342d8"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd54"
+      },
+      "quantity": 1,
+      "title": "White Chocolate Buttercream Frosting",
+      "image": "products/white-chocolate-buttercream-frosting.webp",
+      "category": "Frosting",
+      "price": 55,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.902Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.902Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd55"
+      },
+      "quantity": 1,
+      "title": "Strawberry Buttercream Frosting Recipe",
+      "image": "products/real-strawberry-buttercream-frosting.webp",
+      "category": "Frosting",
+      "price": 55,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd56"
+      },
+      "quantity": 1,
+      "title": "Homemade Whipped Cream",
+      "image": "products/homemade-whipped-cream.webp",
+      "category": "Frosting",
+      "price": 55,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd57"
+      },
+      "quantity": 1,
+      "title": "Salted Caramel Frosting on Cupcake",
+      "image": "products/salted-caramel-frosting-on-cupcake.webp",
+      "category": "Frosting",
+      "price": 55,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd58"
+      },
+      "quantity": 1,
+      "title": "Homemade Banana Cream Pie",
+      "image": "products/homemade-banana-cream-pie.webp",
+      "category": "Pies",
+      "price": 150,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd59"
+      },
+      "quantity": 1,
+      "title": "Creamy Lemon Pie",
+      "image": "products/creamy-lemon-pie.webp",
+      "category": "Pies",
+      "price": 150,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd5a"
+      },
+      "quantity": 1,
+      "title": "Key Lime Pie",
+      "image": "products/key-lime-pie.webp",
+      "category": "Pies",
+      "price": 150,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd5b"
+      },
+      "quantity": 1,
+      "title": "Homemade Coconut Cream Pie",
+      "image": "products/homemade-coconut-cream-pie.webp",
+      "category": "Pies",
+      "price": 150,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:54:58.905Z"
+      }
+    }
+  ],
+  "isCompleted": true,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "date": {
+    "$date": "2023-06-01T10:54:58.899Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T10:54:58.905Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T10:55:07.528Z"
+  },
+  "__v": 0,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "64787925a2590f497a8342f2"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd64"
+      },
+      "quantity": 4,
+      "title": "Brown Butter Pecan Pie Bars",
+      "image": "products/brown-butter-pecan-pie-bars.webp",
+      "category": "Brownies & Bars",
+      "price": 100,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bb"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:55:33.891Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:55:33.891Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd65"
+      },
+      "quantity": 2,
+      "title": "Salted Caramel Apple Pie Bars",
+      "image": "products/salted-caramel-apple-pie-bars.webp",
+      "category": "Brownies & Bars",
+      "price": 100,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bb"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:55:33.891Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:55:33.891Z"
+      }
+    }
+  ],
+  "isCompleted": true,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "date": {
+    "$date": "2023-06-01T10:55:33.890Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T10:55:33.891Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T10:55:41.818Z"
+  },
+  "__v": 0,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "64787961a2590f497a83430c"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd88"
+      },
+      "quantity": 1,
+      "title": "Homemade Banana Cream Pie",
+      "image": "products/homemade-banana-cream-pie.webp",
+      "category": "Pies",
+      "price": 150,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bd"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:56:33.212Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:56:33.212Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd89"
+      },
+      "quantity": 1,
+      "title": "Creamy Lemon Pie",
+      "image": "products/creamy-lemon-pie.webp",
+      "category": "Pies",
+      "price": 150,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bd"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:56:33.212Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:56:33.212Z"
+      }
+    }
+  ],
+  "isCompleted": true,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "date": {
+    "$date": "2023-06-01T10:56:33.211Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T10:56:33.212Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T10:56:39.988Z"
+  },
+  "__v": 0,
+  "rating": 5
+},
+{
+  "_id": {
+    "$oid": "6478798aa2590f497a834326"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd63"
+      },
+      "quantity": 5,
+      "title": "Homemade Artisan Bread",
+      "image": "products/homemade-artisan-bread.webp",
+      "category": "Bread",
+      "price": 50,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:57:14.170Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:57:14.170Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd62"
+      },
+      "quantity": 5,
+      "title": "Homemade Banana Bread",
+      "image": "products/homemade-banana-bread.webp",
+      "category": "Bread",
+      "price": 50,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:57:14.170Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:57:14.170Z"
+      }
+    }
+  ],
+  "isCompleted": true,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "date": {
+    "$date": "2023-06-01T10:57:14.169Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T10:57:14.170Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T10:57:19.525Z"
+  },
+  "__v": 0,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "647879d8a2590f497a834340"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd6e"
+      },
+      "quantity": 2,
+      "title": "Homemade Whipped Cream",
+      "image": "products/homemade-whipped-cream.webp",
+      "category": "Frosting",
+      "price": 55,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bb"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:58:32.324Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:58:32.324Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd65"
+      },
+      "quantity": 2,
+      "title": "Salted Caramel Apple Pie Bars",
+      "image": "products/salted-caramel-apple-pie-bars.webp",
+      "category": "Brownies & Bars",
+      "price": 100,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bb"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:58:32.324Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:58:32.324Z"
+      }
+    }
+  ],
+  "isCompleted": true,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "date": {
+    "$date": "2023-06-01T10:58:32.323Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T10:58:32.325Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T10:58:45.056Z"
+  },
+  "__v": 0,
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "64787a21a2590f497a834364"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd80"
+      },
+      "quantity": 2,
+      "title": "Chewy Chocolate Chip Cookies",
+      "image": "products/chewy-chocolate-chip-cookies.webp",
+      "category": "Cookies",
+      "price": 70,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bc"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:59:45.287Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:59:45.287Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd82"
+      },
+      "quantity": 2,
+      "title": "Chewy Oatmeal Chocolate Chip Cookies",
+      "image": "products/soft-oatmeal-chocolate-chip-cookies.webp",
+      "category": "Cookies",
+      "price": 70,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bc"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:59:45.288Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:59:45.288Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd7e"
+      },
+      "quantity": 1,
+      "title": "Pumpkin Pie Bars",
+      "image": "products/pumpkin-pie-bars.webp",
+      "category": "Brownies & Bars",
+      "price": 100,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bc"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:59:45.288Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:59:45.288Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd7f"
+      },
+      "quantity": 1,
+      "title": "Cranberry Crumble Pie Bars",
+      "image": "products/cranberry-crumble-pie-bars.webp",
+      "category": "Brownies & Bars",
+      "price": 100,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077bc"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T10:59:45.288Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T10:59:45.288Z"
+      }
+    }
+  ],
+  "isCompleted": true,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "date": {
+    "$date": "2023-06-01T10:59:45.285Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T10:59:45.288Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T18:49:55.471Z"
+  },
+  "__v": 0,
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "6478e83708d641f4785ab8cf"
+  },
+  "products": [
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd54"
+      },
+      "quantity": 10,
+      "title": "White Chocolate Buttercream Frosting",
+      "image": "products/white-chocolate-buttercream-frosting.webp",
+      "category": "Frosting",
+      "price": 55,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T18:49:27.695Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T18:49:27.695Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd5e"
+      },
+      "quantity": 1,
+      "title": "Lemon Blueberry Layer Cake",
+      "image": "products/lemon-blueberry-layer-cake.webp",
+      "category": "Cakes",
+      "price": 120,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd5d"
+      },
+      "quantity": 1,
+      "title": "Homemade Strawberry Cake",
+      "image": "products/homemade-strawberry-cake.webp",
+      "category": "Cakes",
+      "price": 120,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd60"
+      },
+      "quantity": 1,
+      "title": "Dinner Rolls In Pan",
+      "image": "products/dinner-rolls-in-pan.webp",
+      "category": "Bread",
+      "price": 50,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64726b31f05a7410a4b3cd63"
+      },
+      "quantity": 1,
+      "title": "Homemade Artisan Bread",
+      "image": "products/homemade-artisan-bread.webp",
+      "category": "Bread",
+      "price": 50,
+      "bakery": {
+        "$oid": "647253321740bc6d3df077ba"
+      },
+      "createdAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      },
+      "updatedAt": {
+        "$date": "2023-06-01T18:49:27.696Z"
+      }
+    }
+  ],
+  "isCompleted": false,
+  "user": {
+    "$oid": "647551ddfa0c6796027c0ceb"
+  },
+  "bakery": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "date": {
+    "$date": "2023-06-01T18:49:27.689Z"
+  },
+  "createdAt": {
+    "$date": "2023-06-01T18:49:27.696Z"
+  },
+  "updatedAt": {
+    "$date": "2023-06-01T18:49:27.696Z"
+  },
+  "__v": 0
+}]

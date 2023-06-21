@@ -1,749 +1,762 @@
-[
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077b9"
+[{
+  "_id": {
+    "$oid": "647253321740bc6d3df077bc"
+  },
+  "title": "Baked from the Hart",
+  "ratingAvg": 4,
+  "ratingQty": 1,
+  "images": {
+    "logo": "bakeries/logo/baked-from-the-hart.jpg",
+    "cover": "bakeries/cover/baked-from-the-hart.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cd74"
     },
-    "title": "Fluff Bake Bar",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/fluff-bake-bar.jpg",
-      "cover": "bakeries/cover/fluff-bake-bar.jpg"
+    {
+      "$oid": "64726b31f05a7410a4b3cd75"
     },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cd44"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd45"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd46"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd47"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd48"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd49"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd4a"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd4b"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd4c"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd4d"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd4e"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd4f"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd50"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd51"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd52"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd53"
-      }
-    ],
-    "updatedAt": {
-      "$date": "2023-05-28T14:24:51.359Z"
+    {
+      "$oid": "64726b31f05a7410a4b3cd76"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd77"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd78"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd79"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd7a"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd7b"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd7c"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd7d"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd7e"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd7f"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd80"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd81"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd82"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd83"
     }
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077ba"
-    },
-    "title": "Little Tart Bakeshop",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/little-tart-bakeshop.jpg",
-      "cover": "bakeries/cover/little-tart-bakeshop.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cd54"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd55"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd56"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd57"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd58"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd59"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd5a"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd5b"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd5c"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd5d"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd5e"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd5f"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd60"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd61"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd62"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd63"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077bb"
-    },
-    "title": "Huckleberry",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/huckleberry.jpg",
-      "cover": "bakeries/cover/huckleberry.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cd64"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd65"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd66"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd67"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd68"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd69"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd6a"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd6b"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd6c"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd6d"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd6e"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd6f"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd70"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd71"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd72"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd73"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077bc"
-    },
-    "title": "Baked from the Hart",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/baked-from-the-hart.jpg",
-      "cover": "bakeries/cover/baked-from-the-hart.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cd74"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd75"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd76"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd77"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd78"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd79"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd7a"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd7b"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd7c"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd7d"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd7e"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd7f"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd80"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd81"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd82"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd83"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077bd"
-    },
-    "title": "Sticky Fingers Bakery",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/sticky-fingers-bakery.jpg",
-      "cover": "bakeries/cover/sticky-fingers-bakery.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cd84"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd85"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd86"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd87"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd88"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd89"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd8a"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd8b"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd8c"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd8d"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd8e"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd8f"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd90"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd91"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd92"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd93"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077be"
-    },
-    "title": "Dahlia Bakery",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/dahlia-bakery.jpg",
-      "cover": "bakeries/cover/dahlia-bakery.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cd94"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd95"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd96"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd97"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd98"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd99"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd9a"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd9b"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd9c"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd9d"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd9e"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cd9f"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda0"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda1"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda2"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077bf"
-    },
-    "title": "Craftsman and Wolves",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/craftsman-and-wolves.jpg",
-      "cover": "bakeries/cover/craftsman-and-wolves.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cda4"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda5"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda6"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda7"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda8"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cda9"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdaa"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdab"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdac"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdad"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdae"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdaf"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb0"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb1"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb2"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077c0"
-    },
-    "title": "Sour Duck Market",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/sour-duck-market.jpg",
-      "cover": "bakeries/cover/sour-duck-market.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cdb4"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb5"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb6"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb7"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb8"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdb9"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdba"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdbb"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdbc"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdbd"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdbe"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdbf"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc0"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc1"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc2"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077c1"
-    },
-    "title": "Butcher & Bee",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/butcher-bee.jpg",
-      "cover": "bakeries/cover/butcher-bee.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cdc4"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc5"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc6"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc7"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc8"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdc9"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdca"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdcb"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdcc"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdcd"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdce"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdcf"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd0"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd1"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd2"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077c2"
-    },
-    "title": "Cinnaholic",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/cinnaholic.jpg",
-      "cover": "bakeries/cover/cinnaholic.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cdd4"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd5"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd6"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd7"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd8"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdd9"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdda"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cddb"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cddc"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cddd"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdde"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cddf"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde0"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde1"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde2"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077c3"
-    },
-    "title": "The Rolling Pin Bakeshop",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/the-rolling-pin-bakeshop.jpg",
-      "cover": "bakeries/cover/the-rolling-pin-bakeshop.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cde4"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde5"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde6"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde7"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde8"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cde9"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdea"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdeb"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdec"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cded"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdee"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdef"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf0"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf1"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf2"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf3"
-      }
-    ]
-  },
-  {
-    "_id": {
-      "$oid": "647253321740bc6d3df077c4"
-    },
-    "title": "Rize up Bakery",
-    "ratingAvg": 0,
-    "ratingQty": 0,
-    "images": {
-      "logo": "bakeries/logo/rize-up-bakery.jpg",
-      "cover": "bakeries/cover/rize-up-bakery.jpg"
-    },
-    "products": [
-      {
-        "$oid": "64726b31f05a7410a4b3cdf4"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf5"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf6"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf7"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf8"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdf9"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdfa"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdfb"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdfc"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdfd"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdfe"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3cdff"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3ce00"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3ce01"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3ce02"
-      },
-      {
-        "$oid": "64726b31f05a7410a4b3ce03"
-      }
-    ]
+  ],
+  "updatedAt": {
+    "$date": "2023-06-01T18:49:55.669Z"
   }
-]
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077bf"
+  },
+  "title": "Craftsman and Wolves",
+  "ratingAvg": 0,
+  "ratingQty": 0,
+  "images": {
+    "logo": "bakeries/logo/craftsman-and-wolves.jpg",
+    "cover": "bakeries/cover/craftsman-and-wolves.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cda4"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda5"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda6"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda7"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda8"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda9"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdaa"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdab"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdac"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdad"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdae"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdaf"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb0"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb1"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb2"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077b9"
+  },
+  "title": "Fluff Bake Bar",
+  "ratingAvg": 4,
+  "ratingQty": 1,
+  "images": {
+    "logo": "bakeries/logo/fluff-bake-bar.jpg",
+    "cover": "bakeries/cover/fluff-bake-bar.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cd44"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd45"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd46"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd47"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd48"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd49"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd4a"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd4b"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd4c"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd4d"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd4e"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd4f"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd50"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd51"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd52"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd53"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-06-01T10:54:33.477Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077be"
+  },
+  "title": "Dahlia Bakery",
+  "ratingAvg": 0,
+  "ratingQty": 0,
+  "images": {
+    "logo": "bakeries/logo/dahlia-bakery.jpg",
+    "cover": "bakeries/cover/dahlia-bakery.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cd94"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd95"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd96"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd97"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd98"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd99"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd9a"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd9b"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd9c"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd9d"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd9e"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd9f"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda0"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda1"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda2"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cda3"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-05-31T23:03:36.315Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077bd"
+  },
+  "title": "Sticky Fingers Bakery",
+  "ratingAvg": 5,
+  "ratingQty": 1,
+  "images": {
+    "logo": "bakeries/logo/sticky-fingers-bakery.jpg",
+    "cover": "bakeries/cover/sticky-fingers-bakery.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cd84"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd85"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd86"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd87"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd88"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd89"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd8a"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd8b"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd8c"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd8d"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd8e"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd8f"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd90"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd91"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd92"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd93"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-06-01T10:56:40.189Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077c0"
+  },
+  "title": "Sour Duck Market",
+  "ratingAvg": 0,
+  "ratingQty": 0,
+  "images": {
+    "logo": "bakeries/logo/sour-duck-market.jpg",
+    "cover": "bakeries/cover/sour-duck-market.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cdb4"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb5"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb6"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb7"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb8"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdb9"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdba"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdbb"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdbc"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdbd"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdbe"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdbf"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc0"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc1"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc2"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077c1"
+  },
+  "title": "Butcher & Bee",
+  "ratingAvg": 0,
+  "ratingQty": 0,
+  "images": {
+    "logo": "bakeries/logo/butcher-bee.jpg",
+    "cover": "bakeries/cover/butcher-bee.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cdc4"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc5"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc6"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc7"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc8"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdc9"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdca"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdcb"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdcc"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdcd"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdce"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdcf"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd0"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd1"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd2"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077c4"
+  },
+  "title": "Rize up Bakery",
+  "ratingAvg": 0,
+  "ratingQty": 0,
+  "images": {
+    "logo": "bakeries/logo/rize-up-bakery.jpg",
+    "cover": "bakeries/cover/rize-up-bakery.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cdf4"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf5"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf6"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf7"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf8"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf9"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdfa"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdfb"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdfc"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdfd"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdfe"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdff"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3ce00"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3ce01"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3ce02"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3ce03"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077ba"
+  },
+  "title": "Little Tart Bakeshop",
+  "ratingAvg": 4.5,
+  "ratingQty": 3,
+  "images": {
+    "logo": "bakeries/logo/little-tart-bakeshop.jpg",
+    "cover": "bakeries/cover/little-tart-bakeshop.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cd54"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd55"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd56"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd57"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd58"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd59"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd5a"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd5b"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd5c"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd5d"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd5e"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd5f"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd60"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd61"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd62"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd63"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-06-01T18:49:27.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077bb"
+  },
+  "title": "Huckleberry",
+  "ratingAvg": 3.5,
+  "ratingQty": 2,
+  "images": {
+    "logo": "bakeries/logo/huckleberry.jpg",
+    "cover": "bakeries/cover/huckleberry.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cd64"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd65"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd66"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd67"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd68"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd69"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd6a"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd6b"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd6c"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd6d"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd6e"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd6f"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd70"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd71"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd72"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cd73"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2023-06-01T10:58:45.252Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077c3"
+  },
+  "title": "The Rolling Pin Bakeshop",
+  "ratingAvg": 0,
+  "ratingQty": 0,
+  "images": {
+    "logo": "bakeries/logo/the-rolling-pin-bakeshop.jpg",
+    "cover": "bakeries/cover/the-rolling-pin-bakeshop.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cde4"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde5"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde6"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde7"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde8"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde9"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdea"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdeb"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdec"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cded"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdee"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdef"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf0"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf1"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf2"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdf3"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "647253321740bc6d3df077c2"
+  },
+  "title": "Cinnaholic",
+  "ratingAvg": 0,
+  "ratingQty": 0,
+  "images": {
+    "logo": "bakeries/logo/cinnaholic.jpg",
+    "cover": "bakeries/cover/cinnaholic.jpg"
+  },
+  "products": [
+    {
+      "$oid": "64726b31f05a7410a4b3cdd4"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd5"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd6"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd7"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd8"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdd9"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdda"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cddb"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cddc"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cddd"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cdde"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cddf"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde0"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde1"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde2"
+    },
+    {
+      "$oid": "64726b31f05a7410a4b3cde3"
+    }
+  ]
+}]
